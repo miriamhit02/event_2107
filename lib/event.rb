@@ -29,6 +29,7 @@ class Event
   end
 
   def total_inventory
-
+    @food_trucks
+    binding.pry
   end
 end
